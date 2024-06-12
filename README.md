@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GageBW
 - 👀 I’m interested in software development, making music, and traveling
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me gagebw@gmail.com
+- 📫 How to reach me: gagebw@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a matching tattoo with a stranger
 
