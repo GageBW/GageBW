@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GageBW
 - 👀 I’m interested in software development, making music, and traveling
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React, MongoDB, and Express
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: gagebw@gmail.com
 - 😄 Pronouns: he/him
